@@ -1,0 +1,59 @@
+body{
+background-color:  hsl(233, 47%, 7%);
+}
+.main{
+  padding: 7% 18% 5% 17%;
+
+}
+
+h1{
+  margin-bottom: 0 auto;
+  color:  hsl(0, 0%, 100%);
+}
+h5{
+  color: hsl(0, 0%, 100%);
+  font-weight: bold;
+  margin: 0;
+}
+p{
+color: hsl(0, 0%, 100%);
+width: 75%;
+margin: 0 auto;
+}
+.attribution{
+  text-align: center;
+}
+.Discover{
+margin: 40px auto 20px auto ;
+}
+img{
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color:  hsl(277, 64%, 61%);
+ mix-blend-mode: multiply;
+ opacity:  83%;
+}
+span{
+  color:hsl(277, 64%, 61%);
+}
+.text-box{
+  background-color:  hsl(244, 38%, 16%);
+  padding: 4%;
+  text-align: center;
+  border-top-left-radius:10px;
+  border-bottom-left-radius:10px;
+}
+.image-src{
+max-width: 505px;
+height: 446px;
+max-width: 100%;
+object-fit: cover;
+}
+.image-div{
+  padding-right: 0;
+  padding-left: 0;
+  background-color: hsl(277, 64%, 61%);
+}
+.mini-div{
+  margin: 20px auto;
+}
